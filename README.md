@@ -3,7 +3,7 @@
 Hi, I am Dipesh Kumar<br><br>Full-stack developer focused on scalable, clean applications and automation workflows
 
 <div align="center">
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dipesh.k_04) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dipesh-kumar09) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dipesh04kr@gmail.com) 
 
 # 💻 Tech Stack:
