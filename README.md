@@ -1,3 +1,4 @@
+<div align="center">
 ## 💫 About Me:
 Hi, I am Dipesh Kumar<br><br>Full-stack developer focused on scalable, clean applications and automation workflows
 
@@ -23,6 +24,7 @@ Hi, I am Dipesh Kumar<br><br>Full-stack developer focused on scalable, clean app
 
 ---
 [![](https://komarev.com/ghpvc/?username=dipeshkr04&icon=0&color=9)](https://visitcount.itsvg.in)
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --><!--
 **dipeshkr04/dipeshkr04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
