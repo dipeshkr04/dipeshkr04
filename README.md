@@ -1,7 +1,7 @@
 <div align="center">
   
 ## 💫 About Me:
-Hi, I am Dipesh Kumar<br><br>Full-stack developer focused on scalable, clean applications and automation workflows
+Hi, I am Dipesh Kumar<br><br>Full-stack developer focused on building scalable, clean applications and automation workflows 
 
 ## 🌐 Socials:
 <a href="https://instagram.com/dipesh.k_04"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" /></a>
